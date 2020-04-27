@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\User\Desktop\Laborator5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(63,10): warning C4101: 'i': unreferenced local variable
+C:\Users\User\Desktop\Laborator5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(104,10): warning C4101: 'i': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\User\Desktop\Laborator5\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
